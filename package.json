@@ -2,7 +2,7 @@
   "name": "@digital-boss/n8n-nodes-aws-secretsmanager",
   "version": "1.0.0",
   "author": "Iñaki Breinbauer",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "description": "AWS Secrets Manager support for n8n",
   "keywords": [
     "n8n",
